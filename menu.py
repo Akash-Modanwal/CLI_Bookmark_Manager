@@ -1,8 +1,8 @@
 import helperfun
 
-print("Welcome to bookmark manger")
+print("Welcome to bookmark manager")
 print("Uses")
-cmd= int(input("1.View\n2.Add\n3.Rmove\n4.Edit "))
+cmd= int(input("1.View\n2.Add\n3.Remove\n4.Edit "))
 
 if cmd==1:
     helperfun.view()
