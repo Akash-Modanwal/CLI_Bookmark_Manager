@@ -1,14 +1,1 @@
-[
-    {
-        "id": 1,
-        "name": "google",
-        "URL": "Https://google.com"
-    },
-
-    {
-        "id": 2,
-        "name": "Facebook",
-        "URL": "Https://facebook.com"
-    }
-
-]
+[{"vk": "vk.com"}, {"google": "google.com"}]
